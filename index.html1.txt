@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Blog</title>
+</head>
+<body>
+    <h1>Hola, este es mi blog</h1>
+    <p>Ya lo voy a subir a GitHub</p>
+</body>
+</html>
